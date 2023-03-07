@@ -1,6 +1,6 @@
 # Building the examples
 
-We'll manually be compiling all examples with GCC. To compile you should run the command:
+We'll manually be compiling all examples with GCC in the terminal. To compile you should run the command:
 ```
 g++ [-fopenmp] [-O2] <sources.cpp>
 ```
