@@ -16,7 +16,7 @@ int main() {
     vec[i] = sin(M_PI*float(i)/N);
   }
 
-  std::cout << timer.elapsed() << '\n';
+  std::cout << "Time: " << timer.elapsed() << '\n';
 
   return 0;
 }
